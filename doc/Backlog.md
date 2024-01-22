@@ -1,11 +1,17 @@
 
-# use meta data like
+# connections
 
-how to find "relevant words"
+- relate articles to pre-defined topics
+- how to find connections between topics?
+- are articles linked through topics only?
+- what about explicit markdown links between articles?
+  
+# Auto identify topics
 
+using
 - WikiWiki
 - tags
-- folder names
+- folder names (which ones? not all might be relevant?)
 - file names
 
 # insights
